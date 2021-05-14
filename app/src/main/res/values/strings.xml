@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MP1.1</string>
+    <string name="title_home">Первая вкладка</string>
+    <string name="title_dashboard">Вторая вкладка</string>
+    <string name="title_book">Третья вкладка</string>
+    <string name="title_gallery">Четвёртая вкладка</string>
+    <string name="textview">TextView</string>
+</resources>
